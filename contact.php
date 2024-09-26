@@ -104,5 +104,4 @@ Office Address: 107 B Wing, The Nest, <br>Asha Nagar, Mulund West, Mumbai, Mahar
     <!-- google map area end -->
 
 
-<!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAqdc4ShNO5kJQAhbpdLLpDROYZ49mRUys"></script>-->
 <?php include 'footer.php';?>
